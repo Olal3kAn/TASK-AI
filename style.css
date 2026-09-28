@@ -640,3 +640,10 @@ body {
     margin-left: -1px;
     font-size: 16px;
 }
+
+.footer1:nth-child(2) .links a:hover,
+.footer1:nth-child(3) .links a:hover,
+.footer1:nth-child(4) .links a:hover,
+.footer1:nth-child(5) .links a:hover {
+    text-decoration: underline;
+}
